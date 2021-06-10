@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1588633404 source:d:\ahmad\desktop\pl1_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1601576495 source:d:\ahmad\desktop\faculty\level 2\subjects\pl 1\pl1_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
